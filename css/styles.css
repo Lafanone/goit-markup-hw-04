@@ -445,6 +445,7 @@ background: #404bbf;
             display: flex;
             flex-direction: column;
             align-items: flex-start;
+            margin-right: 120px;
         }
 
  .footer-social-title {
