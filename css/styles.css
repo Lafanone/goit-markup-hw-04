@@ -454,6 +454,7 @@ background: #404bbf;
             letter-spacing: 0.02em;
             color: #fff;
             margin-bottom: 16px;
+            margin-right: 120px;
         }
 
 .social-links-lists{
@@ -462,4 +463,9 @@ justify-content: center;
 align-items: center;
 flex-direction: row;
 gap: 16px;
+}
+
+.social-links-link:hover,
+.social-links-link:focus {
+    background-color: #31d0aa;
 }
