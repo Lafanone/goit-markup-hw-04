@@ -455,3 +455,11 @@ background: #404bbf;
             color: #fff;
             margin-bottom: 16px;
         }
+
+.social-links-lists{
+    display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: row;
+gap: 16px;
+}
